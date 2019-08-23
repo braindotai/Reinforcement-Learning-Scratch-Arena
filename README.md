@@ -3,7 +3,7 @@ This repository provides hands on tutorial for Reinforcement Learning from scrat
 
 ## What is Reinforcement Learning Scratch Arena?
 
-My goal is to provide high quality Scratch Implementations of Reinforcement Learning and its applications.
+My goal is to provide high quality Scratch Implementations of Reinforcement Learning and its applications, using Numpy, OpenAI GYM, Tensorflow, MXNet, and Pytorch.
 
 ## List of topics implemented from scratch.
 - [Q-Learning.](https://github.com/braindotai/Reinforcement-Learning-Scratch-Arena/tree/master/Q-Learning)
