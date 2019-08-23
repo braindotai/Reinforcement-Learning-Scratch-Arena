@@ -8,18 +8,18 @@ My goal is to provide high quality Scratch Implementations of Reinforcement Lear
 ## List of topics implemented from scratch.
 - [Q-Learning.](https://github.com/braindotai/Reinforcement-Learning-Scratch-Arena/tree/master/Q-Learning)
 - [Deep Q-Learning.](https://github.com/braindotai/Reinforcement-Learning-Scratch-Arena/tree/master/Q-Learning)
-- Double Deep-Q Learning.__(To be implemented)__
-- Dueling Deep-Q Learning.__(To be implemented)__
-- Deep-Q-Learning for Atari Games.__(To be implemented)__
-- Double Deep-Q-Learning for Atari Games.__(To be implemented)__
-- Policy Gradients.__(To be implemented)__
-- Markov Decision Process.__(To be implemented)__
-- Monte Carlo Methods.__(To be implemented)__
-- Monte Carlo Markov Chains.__(To be implemented)__
-- Temporal Difference Learning.__(To be implemented)__
-- Actor Critic.__(To be implemented)__
-- Deep Deterministic Policy Gradients.__(To be implemented)__
-- Curiosity Model.__(To be implemented)__
+- Double Deep-Q Learning. __(To be implemented)__
+- Dueling Deep-Q Learning. __(To be implemented)__
+- Deep-Q-Learning for Atari Games. __(To be implemented)__
+- Double Deep-Q-Learning for Atari Games. __(To be implemented)__
+- Policy Gradients. __(To be implemented)__
+- Markov Decision Process. __(To be implemented)__
+- Monte Carlo Methods. __(To be implemented)__
+- Monte Carlo Markov Chains. __(To be implemented)__
+- Temporal Difference Learning. __(To be implemented)__
+- Actor Critic. __(To be implemented)__
+- Deep Deterministic Policy Gradients. __(To be implemented)__
+- Curiosity Model. __(To be implemented)__
 
 ## What are some good resources to learn Reinforcement Learning
 
