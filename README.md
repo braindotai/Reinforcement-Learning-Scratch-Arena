@@ -7,7 +7,7 @@ My goal is to provide high quality Scratch Implementations of Reinforcement Lear
 
 ## List of topics implemented from scratch.
 - [Q-Learning.](https://github.com/braindotai/Reinforcement-Learning-Scratch-Arena/tree/master/Q-Learning)
-- [Deep Q-Learning.](https://github.com/braindotai/Reinforcement-Learning-Scratch-Arena/tree/master/Q-Learning)
+- Deep Q-Learning. __(To be implemented)__
 - Double Deep-Q Learning. __(To be implemented)__
 - Dueling Deep-Q Learning. __(To be implemented)__
 - Deep-Q-Learning for Atari Games. __(To be implemented)__
